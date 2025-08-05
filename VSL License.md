@@ -1,3 +1,3 @@
                                             Vchi Systems License (VSL)
-RadiantOS 2.0 Solar Flare, 2025
+RadiantOS Solar Flare 2.0, 2025
 This product should not be sold or bought under any circumstances. No modified copies of this that aren't made by Vchi Systems or Sticky Team can be sold or bought. Please give any credit to Vchi Systems and the developer for the original project. When using this software, please obey these rules that are listed. This is the official Vchi Systems License (VSL).
